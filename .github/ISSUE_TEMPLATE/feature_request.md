@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: "[FE]"
+title: Add title for your feature request
 labels: new feature request
 assignees: JayaSuryaT
 
