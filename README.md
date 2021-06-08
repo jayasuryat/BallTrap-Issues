@@ -7,7 +7,7 @@
 </a>
                                
 ###### Note: This is an issues-only repository and does not contain any source code. 
-#### Please report your issue [here](https://github.com/JayaSuryaT/BallTrap-Issues/issues)
-
+                               
+#### Please submit your feature-requests / bug-reports [here](https://github.com/JayaSuryaT/BallTrap-Issues/issues/new/choose)
 
 #### Have fun playing BallTrap :)
