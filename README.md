@@ -1,4 +1,4 @@
-[![GitHub release (latest by date)](https://img.shields.io/badge/version-1.1.4-%23aba073)](https://github.com/JayaSuryaT/BallTrap-Issues/releases)
+[![GitHub release (latest by date)](https://img.shields.io/badge/version-1.1.5-%232EBDF9)](https://github.com/JayaSuryaT/BallTrap-Issues/releases)
 
 ### A place to submit feature requests and bug reports for [BallTrap](https://play.google.com/store/apps/details?id=com.digitalcrafts.balltrap "Open in Play-Store") Android game.
 <a href="https://play.google.com/store/apps/details?id=com.digitalcrafts.balltrap">
